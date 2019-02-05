@@ -21,5 +21,3 @@ end
 def first_element_wth_array_methods(array)
   puts array.first
 end
-
-first_element_wth_array_methods(array_with_two_elements)
