@@ -19,7 +19,7 @@ def last_element(array)
 end
 
 def first_element_wth_array_methods(array)
-  return array.first
+  puts array.first
 end
 
 first_element_wth_array_methods(array_with_two_elements)
