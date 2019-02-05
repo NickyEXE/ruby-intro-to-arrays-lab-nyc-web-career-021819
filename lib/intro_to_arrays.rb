@@ -19,5 +19,5 @@ def last_element(array)
 end
 
 def first_element_wth_array_methods(array)
-  puts array.first
+  return array.first
 end
