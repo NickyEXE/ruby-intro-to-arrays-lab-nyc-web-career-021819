@@ -19,5 +19,5 @@ def last_element(array)
 end
 
 def first_element_wth_array_methods(array)
-  return array.first
+  array.shift
 end
